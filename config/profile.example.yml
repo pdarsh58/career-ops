@@ -3,35 +3,24 @@
 # This is the single source of truth for your personal data across all modes.
 
 candidate:
-  full_name: "Jane Smith"
-  email: "jane@example.com"
-  phone: "+1-555-0123"
-  location: "San Francisco, CA"
-  linkedin: "linkedin.com/in/janesmith"
-  portfolio_url: "https://janesmith.dev"
-  github: "github.com/janesmith"
-  twitter: "https://x.com/janesmith"
+  full_name: "Darshil Patel"
+  email: ""
+  phone: ""
+  location: "Philadelphia, PA"
+  linkedin: "http://linkedin.com/in/pdarsh58/"
+  portfolio_url: "devpost.com/darshp312"
 
 target_roles:
   # Your North Star roles — what you're optimizing for
   primary:
-    - "Senior AI Engineer"
-    - "Staff ML Engineer"
-  # Archetypes help the evaluation system score fit
-  archetypes:
-    - name: "AI/ML Engineer"
-      level: "Senior/Staff"
-      fit: "primary"        # primary = dream role, secondary = good fit, adjacent = stretch
-    - name: "AI Product Manager"
-      level: "Senior"
-      fit: "secondary"
-    - name: "Solutions Architect"
-      level: "Mid-Senior"
-      fit: "adjacent"
+    - "AI Trainer - Advanced Java Developers"
+    - "Software Engineer"
+    - "AI / Automation Engineer"
+
 
 narrative:
   # Your professional headline (1 line)
-  headline: "ML Engineer turned AI product builder"
+  headline: "AI Trainer - Advanced Java Developer"
   # Your exit story — what makes you unique
   exit_story: "Built and sold my SaaS after 5 years. Now focused on applied AI at scale."
   # Your top 3-5 superpowers
